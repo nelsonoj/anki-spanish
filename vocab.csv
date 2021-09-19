@@ -1,0 +1,27 @@
+"el perro",suns,n,m,"Yo veo al perro.",[sound:01_001.mp3],1,1
+"el gato",kaķis,n,m,"El gato es bonito.",[sound:01_002.mp3],1,2
+ser,"to be (essential/permanent quality)",v,,"Ella es guapa.",[sound:verbs_001.mp3],verbs,1
+haber,"to have (auxilliary)",v,,"¿Hay alguien aquí?",[sound:verbs_002.mp3],verbs,2
+estar,"to be (health, location, state)",v,,"Estamos aquí.",[sound:verbs_003.mp3],verbs,3
+tener,"to have",v,,"Tienen bastante tiempo.",[sound:verbs_004.mp3],verbs,4
+hacer,darīt,v,,"No sé qué hacer.",[sound:verbs_005.mp3],verbs,5
+poder,varēt,v,,"¿Cómo puedo llegar a Madrid? ",[sound:verbs_006.mp3],verbs,6
+decir,teikt,v,,"Juan dijo que estaría esperándonos.",[sound:verbs_007.mp3],verbs,7
+ir,iet,v,,"Tenemos que ir a Madrid.",[sound:verbs_008.mp3],verbs,8
+ver,redzēt,v,,"¿Puedo ver la carta?",[sound:verbs_009.mp3],verbs,9
+dar,dot,v,,"No le des la llave.",[sound:verbs_010.mp3],verbs,10
+saber,"zināt (informāciju)",v,,"Yo no sé cómo se llama.",[sound:verbs_011.mp3],verbs,11
+querer,gribēt,v,,"Quiero besarte.",[sound:verbs_012.mp3],verbs,12
+llegar,ierasties,v,,"¿A qué hora llega el vuelo?",[sound:verbs_013.mp3],verbs,13
+pasar,"paiet (garām); pavadīt (laiku); notikt",v,,"¿Qué pasa?",[sound:verbs_014.mp3],verbs,14
+deber,vajadzēt,v,,"¿Debes estar aquí?",[sound:verbs_015.mp3],verbs,15
+poner,nolikt,v,,"Póngalo allá.",[sound:verbs_016.mp3],verbs,16
+parecer,"šķist, likties",v,,"Me parece que no hay otra opción.",[sound:verbs_017.mp3],verbs,17
+quedar,palikt,v,,"¿Cuánto tiempo te vas a quedar?",[sound:verbs_018.mp3],verbs,18
+creer,ticēt,v,,"Yo creo que el libro está en el biblioteca.",[sound:verbs_019.mp3],verbs,19
+hablar,runāt,v,,"No nos gusta hablar de política.",[sound:verbs_020.mp3],verbs,20
+llevar,nest,v,,"Tú llevas el libro.",[sound:verbs_021.mp3],verbs,21
+dejar,"atstāt; ļaut",v,,"No me dejas hablar.",[sound:verbs_022.mp3],verbs,22
+seguir,"sekot; turpināt",v,,"No voy a seguir tus consejos.",[sound:verbs_023.mp3],verbs,23
+encontrar,"satikt, atrast",v,,"El encuentra con sus amigos.",[sound:verbs_024.mp3],verbs,24
+llamar,"saukt; piezvanīt",v,,"Llama a la ambulancia.",[sound:verbs_025.mp3],verbs,25
